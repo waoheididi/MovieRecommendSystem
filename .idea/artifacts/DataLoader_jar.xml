@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DataLoader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DataLoader_jar</output-path>
+    <root id="archive" name="DataLoader.jar">
+      <element id="module-output" name="DataLoader" />
+      <element id="library" level="project" name="Maven: org.apache.spark:spark-core_2.11:2.1.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.22" />
+      <element id="library" level="project" name="Maven: org.elasticsearch.client:transport:5.6.2" />
+      <element id="library" level="project" name="Maven: org.mongodb:casbah-core_2.11:3.1.1" />
+      <element id="library" level="project" name="Maven: org.elasticsearch:elasticsearch-spark-20_2.11:5.6.2" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.22" />
+      <element id="library" level="project" name="Maven: org.mongodb.spark:mongo-spark-connector_2.11:2.0.0" />
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.11.8" />
+      <element id="library" level="project" name="Maven: org.apache.spark:spark-sql_2.11:2.1.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.22" />
+    </root>
+  </artifact>
+</component>
